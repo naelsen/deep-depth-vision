@@ -7,6 +7,6 @@
 ### Vue 1 :
 ![midas.png](img/midas.png)
 ### Vue 2 :
-![midas1.png](img/midas 1.png)
+![midas1.png](https://github.com/naelsen/deep-depth-vision/blob/main/img/midas%201.png)
 ### Vue 3 :
-![midas3.png](img/midas_3.png)
+![midas3.png](https://github.com/naelsen/deep-depth-vision/blob/main/img/midas%203.png)
